@@ -1107,7 +1107,7 @@ body {
 	transform: scale(1.2);
 }
 .page3 .body li .brand {
-	background: rgba(233,148,11,0.83);
+	/*background: rgba(233,148,11,0.83);*/
 	position: absolute;
 	left: 0;
 	right: 0;
@@ -1683,6 +1683,7 @@ body {
 }
 .page6 .info {
 	height: auto;
+	margin-top: 40px;
 	overflow: hidden;
 	width: 1200px;
 	position: absolute;
